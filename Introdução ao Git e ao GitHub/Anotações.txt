@@ -1,0 +1,37 @@
+Link para download do Git:
+
+https://github.com
+
+O Git Bash é um terminal extendido para o uso do Git.
+Flags são complementos de comandos
+
+CD -> change directory
+CD.. -> retroceder um nivel
+TAB -> auto completar, ex: CDW (tab)
+                                                 Windows
+MKDIR -> make directoy (criar pasta)
+RMDIR -> remove directory (apagar repositório(pasta))
+DEL -> remove arquivo dentro do repositório
+Seta para cima -> navega pelo histórico de comandos
+
+SHA - Algoritmo de encriptação (Secure Hash Algorithm) funções hash criptograficas projetadas pela NSA (Agencia de Segurança Nacional dos EUA)
+
+A encriptação gera um conjunto de caracteres identificador de 40 digitos
+
+Objetos fundamentais:
+Blobs, trees e commits
+
+Blobs contem metadados do Git
+Trees armazenam blobs
+
+Chaves SSH e Tokens -> Conexão segura e encriptada entre duas máquinas
+
+control L -> limpar
+LS -> listar
+PWD -> mostra caminho completo das pastas
+
+Arquivo Markdown -> extensão .md 
+
+Git init -> inicializa repositórios, cria repositórios dentro de diretórios
+Git status -> monitora estado dos arquivos
+MV -> move arquivo para pastas
